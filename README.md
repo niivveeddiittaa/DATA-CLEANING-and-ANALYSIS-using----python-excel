@@ -41,7 +41,7 @@ This repository has all my knowledge input of data cleaning and analysis workflo
 - Dataset 3: **Customer Call List**
 
 
-### 4. ****Data Cleaning using Excel
+### 4. **Data Cleaning using Excel**
 - Cleaning unorganised data using Text to columns, Flash fill and many more Technique.
 - Work saved in .xlsx file.
 
