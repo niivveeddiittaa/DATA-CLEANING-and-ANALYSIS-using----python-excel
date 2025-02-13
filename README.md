@@ -24,18 +24,18 @@ This repository is your go-to resource for mastering data cleaning and analysis 
 
 ## 🧩 Projects Overview
 
-### 1. **Analysis and answering some insightful questions using PANDAS**
+### 1. **Analysis and Answering some insightful questions using PANDAS**
 - Clean messy records (duplicates, formatting errors).
 - Analyze udemy course trends.
 
-### 2. **data cleaning and preparing it for Supervised Machine Learning **
+### 2. **Data Cleaning and preparing it for Supervised Machine Learning**
 - Preprocess Mini car data (missing values, categorical encoding).
 - Visualize age groups, preferences, and segmentation.
 - applying standardization
 
-### 3. **Time-Series Forecasting**
-- Resample and smooth noisy temporal data.
-- Predict future trends using moving averages.
+### 3. **data_cleaning**
+- Clean messy records (duplicates, formatting errors).
+- using Cricket Dataset to analyse performance of players
 
 ### 4. **Sentiment Analysis Pipeline**
 - Scrub text data (stopwords, lemmatization).
