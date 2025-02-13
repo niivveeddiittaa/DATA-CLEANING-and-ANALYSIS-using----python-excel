@@ -24,7 +24,7 @@ This repository is your go-to resource for mastering data cleaning and analysis 
 
 ## 🧩 Projects Overview
 
-### 1. **Sales Data Cleanup & Insights**
+### 1. **Analysis of Udemy Courses and answering some insightful questions using PANDAS**
 - Clean messy sales records (duplicates, formatting errors).
 - Analyze regional performance and product trends.
 
