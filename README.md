@@ -2,7 +2,7 @@
 
 
 **Transform raw data into actionable insights!**  
-This repository is your go-to resource for mastering data cleaning and analysis workflows using **Python** and **Excel**. Explore hands-on examples, reusable code snippets, and real-world projects designed to streamline your data journey.
+This repository has all my knowledge input of data cleaning and analysis workflows using **Python** and **Excel**. Explore hands-on examples, reusable code snippets, and real-world projects.
 
 ---
 
@@ -41,9 +41,9 @@ This repository is your go-to resource for mastering data cleaning and analysis 
 - Dataset 3: **Customer Call List**
 
 
-### 4. **Sentiment Analysis Pipeline**
-- Scrub text data (stopwords, lemmatization).
-- Perform exploratory analysis on sentiment scores.
+### 4. ****Data Cleaning using Excel
+- Cleaning unorganised data using Text to columns, Flash fill and many more Technique.
+- Work saved in .xlsx file.
 
 ---
 
