@@ -24,13 +24,14 @@ This repository is your go-to resource for mastering data cleaning and analysis 
 
 ## 🧩 Projects Overview
 
-### 1. **Analysis of Udemy Courses and answering some insightful questions using PANDAS**
-- Clean messy sales records (duplicates, formatting errors).
-- Analyze regional performance and product trends.
+### 1. **Analysis and answering some insightful questions using PANDAS**
+- Clean messy records (duplicates, formatting errors).
+- Analyze udemy course trends.
 
-### 2. **Customer Demographics Analysis**
-- Preprocess survey data (missing values, categorical encoding).
+### 2. **data cleaning and preparing it for Supervised Machine Learning **
+- Preprocess Mini car data (missing values, categorical encoding).
 - Visualize age groups, preferences, and segmentation.
+- applying standardization
 
 ### 3. **Time-Series Forecasting**
 - Resample and smooth noisy temporal data.
@@ -45,17 +46,8 @@ This repository is your go-to resource for mastering data cleaning and analysis 
 ## 🛠️ Tech Stack
 - **Python**: Core scripting for automation and advanced analysis.
 - **Excel**: Quick data exploration and stakeholder-friendly reports.
-- **Jupyter Notebooks**: Interactive documentation of workflows.
 - **Pandas/NumPy**: Data manipulation and numerical computing.
 - **Matplotlib/Seaborn**: Stunning visualizations.
-
----
-
-## 🏁 Getting Started
-1. **Clone the repository** to explore projects and notebooks.
-2. Run Jupyter notebooks to see step-by-step data transformations.
-
-**Prerequisites**: Basic Python knowledge and familiarity with Excel formulas.
 
 ---
 
