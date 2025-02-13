@@ -22,7 +22,7 @@ This repository is your go-to resource for mastering data cleaning and analysis 
 
 ---
 
-## 🧩 Projects Overview
+# 🧩 Projects Overview
 
 ### 1. **Analysis and Answering some insightful questions using PANDAS**
 - Clean messy records (duplicates, formatting errors).
@@ -33,9 +33,13 @@ This repository is your go-to resource for mastering data cleaning and analysis 
 - Visualize age groups, preferences, and segmentation.
 - applying standardization
 
-### 3. **data_cleaning**
+### 3. **Data Cleaning using Pandas**
 - Clean messy records (duplicates, formatting errors).
-- using Cricket Dataset to analyse performance of players
+- I have used 3 dataset to analyse and practice.
+- Dataset 1: **Tree Census**
+- Dataset 2: **Cricket Dataset**
+- Dataset 3: **Customer Call List**
+
 
 ### 4. **Sentiment Analysis Pipeline**
 - Scrub text data (stopwords, lemmatization).
