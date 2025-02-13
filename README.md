@@ -1,38 +1,38 @@
-## Dataset Overview
-- **File**: `Udemy data.csv`
-- **Rows**: 3682
-- **Columns**: 11
-  - `course_id`, `course_title`, `is_paid`, `price`, `num_subscribers`, `num_reviews`, `num_lectures`, `level`, `content_duration`, `published_timestamp`, `subject`
+# DATA CLEANING and ANALYSIS using Python and Excel
 
-## Key Questions Analyzed
-1. **Subjects Offered**:  
-   Udemy offers courses in 4 subjects:  
-   `Musical Instruments`, `Business Finance`, `Graphic Design`, and `Web Development`.
+![GitHub](https://img.shields.io/github/license/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel)
 
-2. **Most Popular Subject**:  
-   `Web Development` has the highest number of courses (1200), followed by `Business Finance` (1199).
+Welcome to the **Data Cleaning and Analysis** repository! This project demonstrates end-to-end workflows for cleaning, preprocessing, and analyzing datasets using **Python** and **Excel**. Whether you're a data enthusiast or a professional, this repository provides practical examples and reusable code to streamline your data tasks.
 
-3. **Free vs. Paid Courses**:  
-   - **Free Courses**: 310 courses (filtered using `df[df.is_paid == False]`).  
-   - **Paid Courses**: 3372 courses (filtered using `df[df.is_paid == True]`).
+## 📌 Project Links
+- **Repository**: [DATA-CLEANING-and-ANALYSIS](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel)
+- **Jupyter Notebooks**: Explore the [`/notebooks/`](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel/tree/main/notebooks) directory for Python-based data workflows.
+- **Sample Datasets**: Access datasets in the [`/data/`](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel/tree/main/data) folder.
+- **Excel Templates**: Find Excel-based analysis tools in [`/excel_templates/`](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel/tree/main/excel_templates).
 
-4. **Top Selling Courses**:  
-   Sorted by `num_subscribers` in descending order. The top course is *"Learn HTML5 Programming From Scratch"* with 268,923 subscribers.
+---
 
-5. **Graphic Design Courses Under $100**:  
-   Filtered using `df[(df.subject == 'Graphic Design') & (df.price == '100')]` (note: the dataset uses string values for price, so exact numeric filtering may require data cleaning).
+## 📖 Overview
+This repository focuses on:
+- **Data Cleaning**: Techniques to handle missing values, outliers, and inconsistencies.
+- **Exploratory Data Analysis (EDA)**: Visualizations and statistical summaries.
+- **Automation**: Python scripts for repetitive tasks.
+- **Excel Integration**: Combining Python's power with Excel's user-friendly interface.
 
-6. **Python-Related Courses**:  
-   Filtered using `df[df.course_title.str.contains('Python')]`, revealing 28 courses in `Web Development` and `Business Finance`.
+---
 
-7. **Courses Published in 2015**:  
-   Extracted by converting `published_timestamp` to datetime and filtering by year.
+## � Key Features
+### Python Workflows
+- [`Data_Cleaning.ipynb`](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel/blob/main/notebooks/Data_Cleaning.ipynb): Step-by-step guide to sanitizing datasets.
+- [`Data_Analysis.ipynb`](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel/blob/main/notebooks/Data_Analysis.ipynb): Visualizations and insights using Pandas and Seaborn.
+  
+### Excel Tools
+- [`Data_Dashboard.xlsx`](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel/blob/main/excel_templates/Data_Dashboard.xlsx): Interactive dashboards for quick analysis.
+- [`Cleaning_Template.xlsx`](https://github.com/niivveeddiittaa/DATA-CLEANING-and-ANALYSIS-using----python-excel/blob/main/excel_templates/Cleaning_Template.xlsx): Preformatted sheets for manual data cleaning.
 
-8. **Max Subscribers by Course Level**:  
-   Grouped using `df.groupby('level')['num_subscribers'].max()`, showing `All Levels` courses have the highest subscribers (268,923).
+---
 
-## Usage
-1. **Dependencies**:  
-   Ensure `pandas` is installed:
-   ```bash
-   pip install pandas
+## 🛠️ Prerequisites
+- **Python 3.8+** with libraries:  
+  ```bash
+  pip install pandas numpy matplotlib seaborn jupyter openpyxl
