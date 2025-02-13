@@ -48,9 +48,9 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 
 | File Name | Preview Link |
 | :----:    | :----: |
-| Data cleaning in excel.xlsx | [https://www.dropbox.com/scl/fi/kl1fwv85qx0adpe1eutms/data-cleaning-in-excel.xlsx?rlkey=rf0e8py1rl48qa5x2e7wexawz&st=849z8fg8&dl=0 |
+| Data cleaning in excel.xlsx | https://www.dropbox.com/scl/fi/kl1fwv85qx0adpe1eutms/data-cleaning-in-excel.xlsx?rlkey=rf0e8py1rl48qa5x2e7wexawz&st=849z8fg8&dl=0 |
 | ' ' |  |
-| Text and values | [https://www.dropbox.com/scl/fi/3vwji6l9hfn2ma2f2uxq8/text-and-values.xlsx?rlkey=mmjam3qz5py7kybhe6ygry7hl&st=xceritu8&dl=0 | 
+| Text and values | https://www.dropbox.com/scl/fi/3vwji6l9hfn2ma2f2uxq8/text-and-values.xlsx?rlkey=mmjam3qz5py7kybhe6ygry7hl&st=xceritu8&dl=0 | 
 | '' |  | 
 
 ---
