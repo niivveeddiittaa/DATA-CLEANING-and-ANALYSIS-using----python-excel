@@ -18,7 +18,6 @@ This repository has all my knowledge input of data cleaning and analysis workflo
 - 📈 **Interactive Visualizations**: Create charts, heatmaps, and dashboards.
 - 📊 **Statistical Summaries**: Generate descriptive stats and correlations.
 - 🔍 **Trend Analysis**: Uncover patterns in time-series and categorical data.
-- 🤖 **Automation Scripts**: Combine Python power with Excel’s user-friendly interface.
 
 ---
 
@@ -35,10 +34,11 @@ This repository has all my knowledge input of data cleaning and analysis workflo
 
 ### 3. **Data Cleaning using Pandas**
 - Clean messy records (duplicates, formatting errors).
-- I have used 3 dataset to analyse and practice.
+- I have used 4 dataset to analyse and practice.
 - Dataset 1: **Tree Census**
 - Dataset 2: **Cricket Dataset**
 - Dataset 3: **Customer Call List**
+- Dataset 4: **List of udemy courses**
 
 
 ### 4. **Data Cleaning using Excel**
@@ -52,15 +52,11 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 | Mod functions | https://www.dropbox.com/scl/fi/r3tgu1zaovstmjfycinns/MOD-Function.xlsx?rlkey=ij2z315ienaod0z7lo29dd226&st=hbl7ojk1&dl=0 |
 | Text and values | https://www.dropbox.com/scl/fi/3vwji6l9hfn2ma2f2uxq8/text-and-values.xlsx?rlkey=mmjam3qz5py7kybhe6ygry7hl&st=xceritu8&dl=0 | 
 | '' |  | 
-
 ---
-
 ## 🛠️ Tech Stack
 - **Python**: Core scripting for automation and advanced analysis.
 - **Excel**: Quick data exploration and stakeholder-friendly reports.
 - **Pandas/NumPy**: Data manipulation and numerical computing.
 - **Matplotlib/Seaborn**: Stunning visualizations.
-
 ---
-
 🌟 **Happy Analyzing!** Let’s turn chaos into clarity, one dataset at a time. 🌟
